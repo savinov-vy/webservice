@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requestLoan xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="../xsd/requestLoan.xsd">
+<personData>
+    <lastname>ffg</lastname>
+    <firstname>Fsfgsdf</firstname>
+    <patronymic></patronymic>
+    <sex>1</sex>
+    <dateOfBirth>1988-12-20</dateOfBirth>
+    <passportSeries>5526</passportSeries>
+    <passportNumber>546464</passportNumber>
+</personData>
+    <deatailsLoan>
+        <amountOfCredit>5.32</amountOfCredit>
+        <timeCredit>2</timeCredit>
+        <availabilityOfInsurance>false</availabilityOfInsurance>
+    </deatailsLoan>
+</requestLoan>
